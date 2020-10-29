@@ -1,6 +1,6 @@
 body {
-    background-color: lightgray;
-    border: 10px;
+    background-color: white;
+    border: 0px;
 }
 
 h1 {
@@ -9,4 +9,23 @@ h1 {
 
 p {
     line-height: 1.8;
+}
+
+.mySlides {
+    display: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.content {
+    display: block;
+    width: 100%;
+    height: auto;
+    /*background-color: lightgrey;
+    width: 100%;
+    border: 15px;
+    padding: 50px;
+    margin: 20px; */
 }
