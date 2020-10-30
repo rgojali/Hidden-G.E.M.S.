@@ -60,6 +60,14 @@ p {
     width: 100%;
 }
 
+.heading {
+    color: white;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
 section {
     margin: none;
     padding: 10px;
